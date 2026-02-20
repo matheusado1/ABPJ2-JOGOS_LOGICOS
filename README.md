@@ -5,7 +5,7 @@ Este é um jogo simples feito em Python onde o jogador deve adivinhar um número
 Nesta versão, o número é fixo, ou seja, o programa não usa nenhuma biblioteca para gerar números aleatórios.
 
 ## Fluxograma
-![Fluxograma.png](Fluxograma.png)
+![Fluxograma.jpg](Fluxograma.jpg)
 
 
 ## 🧠 Como funciona
