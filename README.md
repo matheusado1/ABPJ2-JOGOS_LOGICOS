@@ -4,6 +4,10 @@
 Este é um jogo simples feito em Python onde o jogador deve adivinhar um número secreto.
 Nesta versão, o número é fixo, ou seja, o programa não usa nenhuma biblioteca para gerar números aleatórios.
 
+## Fluxograma
+![Fluxograma.png](Fluxograma.png)
+
+
 ## 🧠 Como funciona
 
 O programa escolhe um número secreto fixo.
